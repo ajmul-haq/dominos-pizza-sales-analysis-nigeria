@@ -85,5 +85,5 @@ This project demonstrates:
 ## **Contact**
 Feel free to reach out:  
 **Email:** Ajmulhaq1990@gmail.com 
-**LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/mohammad-ajmul-haq-bhuiyan-566260194)
+**LinkedIn:** [LinkedIn](www.linkedin.com/in/mohammad-ajmul-haq-bhuiyan-566260194)
 
