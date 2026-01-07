@@ -59,7 +59,7 @@ The project demonstrates skills in **data cleaning, modeling, visualization, and
 ## **Screenshot Previews**
 ![Dashboard Overview](https://github.com/ajmul-haq/dominos-pizza-sales-analysis-nigeria/blob/main/Power%20BI/Screenshot%202025-11-25%20000403.png?raw=true)) 
 ![Dashboard Overview2](https://github.com/ajmul-haq/dominos-pizza-sales-analysis-nigeria/blob/main/Power%20BI/Screenshot%202025-11-25%20000445.png?raw=true)
-![Dashboard Overview3]
+![Dashboard Overview3](https://github.com/ajmul-haq/dominos-pizza-sales-analysis-nigeria/blob/main/Power%20BI/Screenshot%202025-11-25%20000504.png?raw=true)
 ![Branch Sales](powerbi/dashboard_screenshots/branch_sales.png)  
 ![Top Pizzas](powerbi/dashboard_screenshots/top_pizzas.png)  
 
