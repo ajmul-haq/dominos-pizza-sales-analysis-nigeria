@@ -1,113 +1,88 @@
-📊 Domino’s Pizza Nigeria – Sales Analysis Dashboard
+# 📊 Domino’s Pizza Nigeria – Sales Analysis Dashboard
 
-Project Overview
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue) ![Excel](https://img.shields.io/badge/Tool-Excel-green) ![Data Analytics](https://img.shields.io/badge/Skill-Data%20Analytics-orange)
 
-This end-to-end data analytics project analyzes 2 weeks of Domino’s Pizza sales across Nigerian branches using Power BI.
-The dashboard provides descriptive, diagnostic, and predictive insights on:
+---
 
-Sales performance by branch and product
+## **Project Overview**
+This **end-to-end data analytics project** analyzes **2 weeks of Domino’s Pizza sales across Nigerian branches** using Power BI.  
+The dashboard provides **descriptive, diagnostic, and predictive insights** on:
 
-Target achievement (daily and pizza-wise)
+- Sales performance by branch and product  
+- Target achievement (daily and pizza-wise)  
+- Weekly sales trends  
+- Forecasting & actionable insights  
 
-Weekly sales trends
+The project demonstrates skills in **data cleaning, modeling, visualization, and business intelligence reporting**.
 
-Forecasting & actionable insights
+---
 
-The project demonstrates skills in data cleaning, modeling, visualization, and business intelligence reporting.
+## **Key Insights**
+- **Total Sales:** ₦47,370K | **Quantity Sold:** 15,050  
+- **Pizza Target Achievement:** 104.7% | **Daily Target Achievement:** 97.85%  
+- **Top-Performing Pizza:** Hot Pepperoni Feast  
+- **Best Branches:** Ikoyi & Gbagada  
+- **Lowest Branch:** Surulere  
+- **Weekly Trend:** Peak on Saturday, lowest on Wednesday  
+- **Predictive Trend:** Slight downward trend in expected sales  
 
-Key Insights
+---
 
-Total Sales: ₦47,370K | Quantity Sold: 15,050
+## **Project Workflow**
+1. **Data Collection & Cleaning:** Combined sales, branch, and target data → cleaned and structured using Excel & Power Query.  
+2. **Data Modeling:** Built relationships between tables; created **DAX measures** for key metrics.  
+3. **Visualization:** Designed interactive **Power BI dashboard**: branch-wise, product-wise, daily trends, KPIs.  
+4. **Insights & Forecasting:** Highlighted high-performing pizzas, branch disparities, midweek weaknesses, and projected 7-day sales trends.
 
-Pizza Target Achievement: 104.7% | Daily Target Achievement: 97.85%
+---
 
-Top-Performing Pizza: Hot Pepperoni Feast
+## **Repository Structure**
 
-Best Branches: Ikoyi & Gbagada
+---
 
-Lowest Branch: Surulere
+## **Files Included**
+- `Dominos_Sales_Dashboard.pbix` – Power BI dashboard  
+- Excel datasets – Sales, Branch, Daily Targets  
+- Dashboard screenshots (`.png`)  
+- PDF report summarizing insights  
 
-Weekly Trend: Peak on Saturday, lowest on Wednesday
+---
 
-Predictive Trend: Slight downward trend in expected sales
+## **Tools & Technologies**
+- **Power BI Desktop** – Interactive dashboards  
+- **Excel / Power Query** – Data cleaning & preparation  
+- **DAX** – KPI calculations & analytics  
+- **Data Visualization & Analytics** – Descriptive, diagnostic, and predictive  
 
-Project Workflow
+---
 
-Data Collection & Cleaning: Combined sales, branch, and target data → cleaned and structured using Excel & Power Query.
+## **Screenshot Previews**
+![Dashboard Overview](powerbi/dashboard_screenshots/dashboard_overview.png)  
+![Branch Sales](powerbi/dashboard_screenshots/branch_sales.png)  
+![Top Pizzas](powerbi/dashboard_screenshots/top_pizzas.png)  
 
-Data Modeling: Built relationships between tables; created DAX measures for key metrics.
+---
 
-Visualization: Designed interactive Power BI dashboard: branch-wise, product-wise, daily trends, KPIs.
+## **How to Use**
+1. Download the **Power BI file** and datasets.  
+2. Open `Dominos_Sales_Dashboard.pbix` in Power BI Desktop.  
+3. Refresh to update visuals with new data.  
+4. Explore branch, product, and daily performance interactively.
 
-Insights & Forecasting: Highlighted high-performing pizzas, branch disparities, midweek weaknesses, and projected 7-day sales trends.
+---
 
-Repository Structure
-📂 dominos-pizza-sales-analysis-nigeria
- ├── 📁 data
- │     ├── sales_dataset.xlsx
- │     ├── branch_data.xlsx
- │     └── daily_targets.xlsx
- ├── 📁 powerbi
- │     ├── Dominos_Sales_Dashboard.pbix
- │     └── dashboard_screenshots/
- ├── 📁 docs
- │     └── project_report.pdf
- └── README.md
-
-Files Included
-
-Dominos_Sales_Dashboard.pbix – Power BI dashboard
-
-Excel datasets – Sales, Branch, Daily Targets
-
-Dashboard screenshots (.png)
-
-PDF report summarizing insights
-
-Tools & Technologies
-
-Power BI Desktop – Interactive dashboards
-
-Excel / Power Query – Data cleaning & preparation
-
-DAX – KPI calculations & analytics
-
-Data Visualization & Analytics – Descriptive, diagnostic, and predictive
-
-Screenshot Previews
-
-
-
-
-
-
-How to Use
-
-Download the Power BI file and datasets.
-
-Open Dominos_Sales_Dashboard.pbix in Power BI Desktop.
-
-Refresh to update visuals with new data.
-
-Explore branch, product, and daily performance interactively.
-
-Portfolio Value
-
+## **Portfolio Value**
 This project demonstrates:
 
-End-to-end analytics workflow
+- **End-to-end analytics workflow**  
+- Handling **real business datasets**  
+- **Interactive dashboard development**  
+- Business insights for decision-making  
+- Skills relevant to **Data Analyst / BI roles**
 
-Handling real business datasets
+---
 
-Interactive dashboard development
-
-Business insights for decision-making
-
-Skills relevant to Data Analyst / BI roles
-
-Contact
-
-Feel free to reach out:
-Email: your.email@example.com
-
-LinkedIn: Your LinkedIn Profile
+## **Contact**
+Feel free to reach out:  
+**Email:** your.email@example.com  
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
