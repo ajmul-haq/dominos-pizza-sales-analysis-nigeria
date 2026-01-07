@@ -84,5 +84,6 @@ This project demonstrates:
 
 ## **Contact**
 Feel free to reach out:  
-**Email:** your.email@example.com  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+**Email:** Ajmulhaq1990@gmail.com 
+**LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/mohammad-ajmul-haq-bhuiyan-566260194)
+
